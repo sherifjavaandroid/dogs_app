@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "775972566850",
+    "project_id": "pawlly-flutter",
+    "storage_bucket": "pawlly-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775972566850:android:b14b594feb22508dc5badb",
+        "android_client_info": {
+          "package_name": "com.pawlly.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775972566850-9r9h8qa72ugq02i16q1ru136spdrgjrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawlly.customer",
+            "certificate_hash": "5bb19f3ff944239b7087529ec8fa4aeb68860f43"
+          }
+        },
+        {
+          "client_id": "775972566850-ojkclft43odcidjpq2cvlfaak4f15m1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawlly.customer",
+            "certificate_hash": "d2762a4456b986ad03a6841a81bf99a9a282fdf9"
+          }
+        },
+        {
+          "client_id": "775972566850-ptanml2fb694fb9v3npq80nb9a0s4n5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawlly.customer",
+            "certificate_hash": "bdfff9657ecd1e746f19084010abf646fd360940"
+          }
+        },
+        {
+          "client_id": "775972566850-toesj3v114ah8m8npf9sui6dt83hagvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawlly.customer",
+            "certificate_hash": "5bf9982e805ec9e2f85889519546ac46591f8b9b"
+          }
+        },
+        {
+          "client_id": "775972566850-bqbak34oggeobvbcp5cls9cs5q3vugml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98CJ9qJtCnZoSh523huAjVAYSo4_6tGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775972566850-bqbak34oggeobvbcp5cls9cs5q3vugml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775972566850-9u7nm63i9i0sbjuuk53b66cv3tu7qhpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawlly.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775972566850:android:eb66029e850c8815c5badb",
+        "android_client_info": {
+          "package_name": "com.pawlly.employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775972566850-jfv4tm4g2hlfitrdbj6e509jhfgep8cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawlly.employee",
+            "certificate_hash": "bdfff9657ecd1e746f19084010abf646fd360940"
+          }
+        },
+        {
+          "client_id": "775972566850-lvp83lvc9m089eij997pjbnqf38o7c76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawlly.employee",
+            "certificate_hash": "381b149f87d500ceb6b1b4d3b3a85800066bf1b3"
+          }
+        },
+        {
+          "client_id": "775972566850-bqbak34oggeobvbcp5cls9cs5q3vugml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98CJ9qJtCnZoSh523huAjVAYSo4_6tGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775972566850-bqbak34oggeobvbcp5cls9cs5q3vugml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775972566850-9u7nm63i9i0sbjuuk53b66cv3tu7qhpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pawlly.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
